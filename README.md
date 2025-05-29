@@ -4,8 +4,7 @@
 
 ## 📦 Требования
 
-- Python 3.8+
-- pip
+- Python 3+
 - Docker и Docker Compose (опционально)
 
 ## 🚀 Запуск проекта
